@@ -1,0 +1,72 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+
+}
+h1{
+    font-size: 3em;
+    -webkit-text-stroke: 0.02em rgb(233, 41, 99);
+}
+#titulo2{
+    color: red;
+    font-size: 2em;
+}
+h3{
+    font-size: 1.5em;
+}
+.logowwe{
+    width: 5em;
+    height: 5em;
+}
+.hdestruc{
+    width: 15em;
+    height: 15em;
+    padding: 1em;
+}
+.cntr{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+p{
+    width: 50em;
+    text-align: center;
+}
+.aegimg{
+    width: 20em;
+    height: 25em;
+    margin: 3em;
+}
+.aegp{
+    width: 30em;
+}
+#cmwee{
+    font-size: 1.2em;
+}
+ul li:first-child {
+    font-weight: bold;
+}
+ul li:last-child {
+    color: red;
+}
+#cmolr{
+    font-size: 1.2em;
+}
+footer{
+    background-color: rgb(110, 92, 225);
+}
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+a{
+    color: black;
+    text-decoration: unset;
+}
+.ftr{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 1.2em;
+}
